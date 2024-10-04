@@ -4,7 +4,7 @@ The objective of this report is to perform an exploratory analysis of the “Tot
 
 
 
-## Project Files
+## Project Files 📊
 - TotalMarketValue.ipynb: Jupyter Notebook for analyzing team market values.
 
 
